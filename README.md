@@ -1,2 +1,0 @@
-# zlib
-zlib compression library
